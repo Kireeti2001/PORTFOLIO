@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/Kireeti2001/PORTFOLIO/static/css/main.ba95ae8a.chunk.css",
+    "main.js": "/Kireeti2001/PORTFOLIO/static/js/main.46c31d06.chunk.js",
+    "main.js.map": "/Kireeti2001/PORTFOLIO/static/js/main.46c31d06.chunk.js.map",
+    "runtime-main.js": "/Kireeti2001/PORTFOLIO/static/js/runtime-main.aef9ca4b.js",
+    "runtime-main.js.map": "/Kireeti2001/PORTFOLIO/static/js/runtime-main.aef9ca4b.js.map",
+    "static/css/2.081f420c.chunk.css": "/Kireeti2001/PORTFOLIO/static/css/2.081f420c.chunk.css",
+    "static/js/2.85baec6f.chunk.js": "/Kireeti2001/PORTFOLIO/static/js/2.85baec6f.chunk.js",
+    "static/js/2.85baec6f.chunk.js.map": "/Kireeti2001/PORTFOLIO/static/js/2.85baec6f.chunk.js.map",
+    "static/js/3.de8c5389.chunk.js": "/Kireeti2001/PORTFOLIO/static/js/3.de8c5389.chunk.js",
+    "static/js/3.de8c5389.chunk.js.map": "/Kireeti2001/PORTFOLIO/static/js/3.de8c5389.chunk.js.map",
+    "index.html": "/Kireeti2001/PORTFOLIO/index.html",
+    "static/css/2.081f420c.chunk.css.map": "/Kireeti2001/PORTFOLIO/static/css/2.081f420c.chunk.css.map",
+    "static/css/main.ba95ae8a.chunk.css.map": "/Kireeti2001/PORTFOLIO/static/css/main.ba95ae8a.chunk.css.map",
+    "static/js/2.85baec6f.chunk.js.LICENSE.txt": "/Kireeti2001/PORTFOLIO/static/js/2.85baec6f.chunk.js.LICENSE.txt",
+    "static/media/about.aee0f771.png": "/Kireeti2001/PORTFOLIO/static/media/about.aee0f771.png",
+    "static/media/avatar.7f806e40.svg": "/Kireeti2001/PORTFOLIO/static/media/avatar.7f806e40.svg",
+    "static/media/chatify.9373edda.png": "/Kireeti2001/PORTFOLIO/static/media/chatify.9373edda.png",
+    "static/media/style.css": "/Kireeti2001/PORTFOLIO/static/media/pre.4410c5ba.svg",
+    "static/media/home-main.359935c3.svg": "/Kireeti2001/PORTFOLIO/static/media/home-main.359935c3.svg",
+    "static/media/kireeti.7fd56a80.pdf": "/Kireeti2001/PORTFOLIO/static/media/kireeti.7fd56a80.pdf",
+    "static/media/leaf.4c15d6eb.png": "/Kireeti2001/PORTFOLIO/static/media/leaf.4c15d6eb.png",
+    "static/media/logo.dd739541.png": "/Kireeti2001/PORTFOLIO/static/media/logo.dd739541.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aef9ca4b.js",
+    "static/css/2.081f420c.chunk.css",
+    "static/js/2.85baec6f.chunk.js",
+    "static/css/main.ba95ae8a.chunk.css",
+    "static/js/main.46c31d06.chunk.js"
+  ]
+}
